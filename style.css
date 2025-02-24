@@ -54,5 +54,9 @@ h1, h2, h3 {
     margin-bottom: 0;
 }
 #mainLeft {
-    border-right: 1px solid lightgray;
+    border-right: 1px solid rgb(196, 185, 185);
+}
+img {
+    display: block;
+    
 }
